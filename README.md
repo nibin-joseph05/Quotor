@@ -223,26 +223,3 @@ This project is created for educational and assessment purposes.
 
 **Nibin Joseph**
 - Email: nibin.joseph.career@gmail.com
-- Position Applied: Flutter Developer
-- Company: Meru Technosoft
-
-## 🎯 Assignment Requirements Met
-
--  Dynamic line items with add/remove functionality
--  Responsive layout for all screen sizes
--  Real-time business logic calculations
--  Professional B2B tool UI organization
--  BLoC state management implementation
--  Clean code structure and component separation
--  Tax-inclusive/exclusive mode (Bonus)
--  Currency formatting (Bonus)
--  Save/Send simulation (Bonus)
--  Quote status tracking (Bonus)
-
-## 📝 Notes
-
-- No external API integration (local app as required)
-- All data is stored in memory during the session
-- Currency formatting uses Indian Rupee (₹) by default
-- Material Design 3 principles applied throughout
-- No comments in code for production-ready cleanliness
